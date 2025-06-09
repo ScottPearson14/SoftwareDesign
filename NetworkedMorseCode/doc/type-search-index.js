@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"MorseCodeServer.Communicator"},{"p":"<Unnamed>","l":"MorseCodeClient"},{"p":"<Unnamed>","l":"MorseCodeClientTest"},{"p":"<Unnamed>","l":"MorseCodeServer"},{"p":"<Unnamed>","l":"MorseCodeServerTest"},{"p":"<Unnamed>","l":"MorseCodeTranslator"}];updateSearchResults();
