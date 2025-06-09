@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ArabicToRoman"},{"p":"<Unnamed>","l":"ArabicToRomanController"},{"p":"<Unnamed>","l":"ArabicToRomanConverterModel"},{"p":"<Unnamed>","l":"Main"}];updateSearchResults();
