@@ -10,7 +10,7 @@ This repository showcases Java projects created for the Software Design course a
 
 ### 🧩 Team Hackthon Project Challenge – Who Wants to be a Millionaire
 - [TeamHackathonProject](./TeamHackathonProject/)  
-  ➤ A full-featured **multithreated server networked trivia game** built in just 48 hours as part of a course-wide team sprint.  
+  ➤ A full-featured **networked multithreated server trivia game** built in just 48 hours as part of a course-wide team sprint.  
   This project demonstrates advanced multithreading, client-server communication, database connections, and polished GUI design using Java Swing.
 
 
