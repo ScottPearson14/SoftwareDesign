@@ -25,7 +25,7 @@ This repository showcases Java projects created for the Software Design course a
   ➤ Program that constructs a Wordle-like game where users have to guess a 5-letter word, using Java Swing.
 
 ### 🧠 Oral Exam 2
-- [ArabciToRoman (JavaFX)](./ArabciToRoman/)  
+- [ArabicToRoman (JavaFX)](./ArabicToRoman/)  
   ➤ A program that constructs a GUI, using only two text areas, that allows users to convert numbers in both directions between Roman numerals and Arabic numbers using JavaFX and Scene Builder.
 
 - [Scoreboard (Polymorphism)](./Scoreboard/)  
