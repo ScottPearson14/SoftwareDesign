@@ -21,7 +21,7 @@ This repository showcases Java projects created for the Software Design course a
 - [Computus](./Computus/)  
   ➤ A program with the power to calculate the month and day of Easter  in the Gregorian calendar for a given year.
 
-- [Wordle (Java Swing](./Wordle/)  
+- [Wordle (Java Swing)](./Wordle/)  
   ➤ Program that constructs a Wordle-like game where users have to guess a 5-letter word, using Java Swing.
 
 ### 🧠 Oral Exam 2
